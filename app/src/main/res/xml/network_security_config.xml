@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">dev-tasks.alef.im</domain>
+        <domain includeSubdomains="true">fototips.ru</domain>
+        <domain includeSubdomains="true">www.art-portrets.ru</domain>
+        <domain includeSubdomains="true">www.fotolandscape.com</domain>
+        <domain includeSubdomains="true">fotoprirodi.narod.ru</domain>
+        <domain includeSubdomains="true">www.art-vernissage.ru</domain>
+        <domain includeSubdomains="true">img0.liveinternet.ru</domain>
+        <domain includeSubdomains="true">cdn-tn.fishki.net</domain>
+        <domain includeSubdomains="true">cdn-tn.fishki.net/127.0.0.1:80</domain>
+    </domain-config>
+</network-security-config>
